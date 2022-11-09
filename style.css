@@ -1,0 +1,54 @@
+.row{
+  padding:25px 20px 0px 20px;
+  /* background-color:transparent */
+  background-image: url('Top-10-Countries-APIs.jpg');
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.card{
+  margin-bottom: 20px;
+}
+
+.card-header{
+    background-color: rgb(199, 161, 9);
+    color:rgb(64, 18, 18);
+    text-align:center;
+    font-size: 25px;
+  }
+
+.card-image{
+    width:100%;
+    height: 190px;
+    margin-bottom: 10px;
+}
+
+.card-body{
+    font-size: 25px;
+    text-align:center;
+    background-image: linear-gradient(to left, rgb(200, 192, 181),rgb(99, 132, 175));
+    color:rgb(237, 240, 234); 
+
+  }
+
+  #button{
+    border:1px solid rgb(87, 12, 14);
+    padding:6px 8px; 
+     border-radius: 4px;
+    color:rgb(8, 7, 8);
+  }
+
+  #button:hover{ 
+    border-color: greenyellow;     
+    color:#181116;
+    background-color: rgb(245, 95, 95);
+    }
+
+  .btn-primary {
+    background: none;
+    border:none;
+  }
+
+
